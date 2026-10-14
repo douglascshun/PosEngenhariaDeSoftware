@@ -1,5 +1,11 @@
 <!-- Gerado por pos-engsw-readme.py a cada sync. Editar o gerador, não este arquivo. -->
 <div align="center">
+<a href="README.md"><img src="https://img.shields.io/badge/Português-1987F0?style=for-the-badge" alt="Português"/></a>
+<a href="README.en.md"><img src="https://img.shields.io/badge/English-555555?style=for-the-badge" alt="English"/></a>
+<a href="README.es.md"><img src="https://img.shields.io/badge/Español-555555?style=for-the-badge" alt="Español"/></a>
+</div>
+
+<div align="center">
   <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height="10px" alt="divider"/>
 </div>
 
@@ -16,7 +22,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Pós--Graduação-Engenharia_de_Software-1987F0?style=for-the-badge" alt="pos"/>
+<img src="https://img.shields.io/badge/P%C3%B3s--Gradua%C3%A7%C3%A3o-Engenharia_de_Software-1987F0?style=for-the-badge" alt="pos"/>
 <img src="https://img.shields.io/badge/Status-Em_andamento-FFA500?style=for-the-badge" alt="status"/>
 <img src="https://img.shields.io/badge/Aulas-3%2F144_(2%25)-000000?style=for-the-badge" alt="aulas"/>
 <br/>
@@ -31,11 +37,11 @@
 
 <div align="center">
 
-<a href="#sobre"><img src="https://img.shields.io/badge/▸_SOBRE-1987F0?style=for-the-badge" alt="sobre"/></a>
-<a href="#objetivos"><img src="https://img.shields.io/badge/▸_O_QUE_TEM_AQUI-000000?style=for-the-badge" alt="objetivos"/></a>
-<a href="#progresso"><img src="https://img.shields.io/badge/▸_PROGRESSO-1987F0?style=for-the-badge" alt="progresso"/></a>
-<a href="#modulos"><img src="https://img.shields.io/badge/▸_M%C3%93DULOS-000000?style=for-the-badge" alt="modulos"/></a>
-<a href="#contato"><img src="https://img.shields.io/badge/▸_CONTATO-1987F0?style=for-the-badge" alt="contato"/></a>
+<a href="#sobre"><img src="https://img.shields.io/badge/%E2%96%B8_SOBRE-1987F0?style=for-the-badge" alt="sobre"/></a>
+<a href="#objetivos"><img src="https://img.shields.io/badge/%E2%96%B8_O_QUE_TEM_AQUI-000000?style=for-the-badge" alt="objetivos"/></a>
+<a href="#progresso"><img src="https://img.shields.io/badge/%E2%96%B8_PROGRESSO-1987F0?style=for-the-badge" alt="progresso"/></a>
+<a href="#modulos"><img src="https://img.shields.io/badge/%E2%96%B8_M%C3%93DULOS-000000?style=for-the-badge" alt="modulos"/></a>
+<a href="#contato"><img src="https://img.shields.io/badge/%E2%96%B8_CONTATO-1987F0?style=for-the-badge" alt="contato"/></a>
 
 </div>
 
@@ -87,7 +93,7 @@ Este repositório é o meu caderno público do curso. Cada aula tem os exemplos 
 ## Organização do conteúdo
 
 <details>
-  <summary><strong> 🔹 MODULO 1</strong></summary>
+  <summary><strong> 🔹 MÓDULO 1</strong></summary>
   <details>
     <summary>🔹 Gerenciamento Avançado de Projetos (0/16)</summary>
     <ul>
@@ -155,7 +161,7 @@ Este repositório é o meu caderno público do curso. Cada aula tem os exemplos 
 </details>
 
 <details>
-  <summary><strong> 🔹 MODULO 2</strong></summary>
+  <summary><strong> 🔹 MÓDULO 2</strong></summary>
   <details>
     <summary>🔹 Arquitetura de BI e Big Data (0/16)</summary>
     <ul>
@@ -236,7 +242,7 @@ Este repositório é o meu caderno público do curso. Cada aula tem os exemplos 
 </details>
 
 <details>
-  <summary><strong> 🔹 MODULO 3</strong></summary>
+  <summary><strong> 🔹 MÓDULO 3</strong></summary>
   <details>
     <summary>🔹 Análise de Dados e BI para Tomada de Decisão (0/9)</summary>
     <ul>
@@ -315,7 +321,7 @@ Este repositório é o meu caderno público do curso. Cada aula tem os exemplos 
 
 <a href="https://www.linkedin.com/in/cshunderlick"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/douglascshun"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://douglascshun.github.io"><img src="https://img.shields.io/badge/Portfólio-1987F0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/></a>
+<a href="https://douglascshun.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1987F0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/></a>
 <a href="mailto:douglascshunderlick@gmail.com"><img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
 <a href="https://tryhackme.com/p/D.r4bbi7"><img src="https://img.shields.io/badge/TryHackMe-1987F0?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
 
