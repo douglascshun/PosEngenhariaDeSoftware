@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+public class EstruturaRepeticaoWhile {
+    public static void main(String[] args) {
+        int opcao;
+        while (opcao != 99) {
+            System.out.println("Digite um valor qualuqer ou 99 para sair: ");
+            Scanner entrada = new Scanner(System.in);
+            opcao = entrada.nextInt();
+        }
+    }
+}

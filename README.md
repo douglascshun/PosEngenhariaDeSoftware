@@ -12,7 +12,7 @@
 </div>
 
 <h1 align="center">Pós-graduação em Engenharia de Software</h1>
-<p align="center"><em>Códigos, anotações e prints de execução da minha pós em Engenharia de Software na Descomplica, organizados por módulo, disciplina e aula.</em></p>
+<p align="center"><em>Códigos, anotações e prints de execução da minha pós em Engenharia de Software na União das Américas (Descomplica), organizados por módulo, disciplina e aula.</em></p>
 
 <div align="center">
 
