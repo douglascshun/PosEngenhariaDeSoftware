@@ -5,3 +5,4 @@
 ![alt text](EstruturaRepeticaoDoWhile.png)
 
 ![alt text](EstruturaRepeticaoAlinhada.png)
+
