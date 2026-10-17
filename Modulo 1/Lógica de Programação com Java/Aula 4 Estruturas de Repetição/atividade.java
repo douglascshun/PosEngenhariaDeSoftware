@@ -6,3 +6,4 @@ public class atividade {
                     System.out.println(y);
     }
 }
+
